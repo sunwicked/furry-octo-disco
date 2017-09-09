@@ -1,4 +1,4 @@
-package app.com.application.main;
+package app.com.application;
 
 import android.app.Application;
 

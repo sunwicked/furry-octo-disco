@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">Application</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Basic</string>
+    <string name="title_activity_main">Feed</string>
+    <string name="title_activity_display">Web Browser</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_no_internet">Network Not Available</string>
+    <string name="info_feed_failed">Unable to fetch the latest feed</string>
+    <string name="info_web_page_failed">Oh! We did something wrong.</string>
+    <string name="show_all">Show All</string>
 </resources>
